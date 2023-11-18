@@ -11,9 +11,6 @@
         "src": "/(.*)",
         "dest": "/backend.py"
       }
-    ],
-    "engines": {
-      "python": "3.8"  
-    }
+    ]
   }
   
