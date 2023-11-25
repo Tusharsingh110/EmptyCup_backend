@@ -20,4 +20,4 @@ def get_data():
     return jsonify(data=data_from_mongo)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
